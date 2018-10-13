@@ -10,7 +10,7 @@ Personal Data|.
 **E-MAIL**|gtparas@yahoo.gr
 **FAMILY STATUS**|Married with two children
 
-![Image of Me](https://github.com/gtparas/resume/twitter.jpg)
+![](https://github.com/gtparas/resume/blob/02caced67dfffd3e235fd5f7cf575e8a67f45e23/twitter.jpg?raw=true)
 
 
 Education|.
