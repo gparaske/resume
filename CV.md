@@ -10,6 +10,9 @@ Personal Data|.
 **E-MAIL**|gtparas@yahoo.gr
 **FAMILY STATUS**|Married with two children
 
+![Image of Me](https://github.com/gtparas/resume/twitter.jpg)
+
+
 Education|.
 -|-
 **2012–2016:**|HELENIC OPEN UNIVERSITY – Computer Science Dpt.
