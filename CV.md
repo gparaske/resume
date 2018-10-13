@@ -1,5 +1,5 @@
 # C U R R I C U L U M   V I T A E
-## P E R S O N A L   D A T A
+
 Personal Data|.
 -|-
 **NAME**|GEORGE T. PARASKEVOPOULOS
