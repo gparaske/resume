@@ -4,9 +4,9 @@ Personal Data|.
 -|-
 **NAME**|GEORGE T. PARASKEVOPOULOS
 **DATE OF BIRTH**|03/01/1980
-**ADDRESS OF RESIDENCE**|KALIGA 64 - FILOTHEI
-**PHONE NUMBER**|211-40.26.023
-**MOBILE**|694.48.52.833
+**ADDRESS OF RESIDENCE**|xxxxxxxxxxxxx
+**PHONE NUMBER**|xxxxxxxxxxxx
+**MOBILE**|xxxxxxxxxx
 **E-MAIL**|gtparas@yahoo.gr
 **FAMILY STATUS**|Married with two children
 
